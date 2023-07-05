@@ -2,6 +2,10 @@
 # [AliElTop]
 ## Cybersecurity Expert | Protecting Digital Assets for a Safer Future
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/66541902?v=4" alt="Ali Essam">
+</p>
+
 Welcome to my GitHub profile! I'm [Ali], a seasoned cybersecurity professional with a passion for safeguarding digital infrastructures and ensuring the confidentiality, integrity, and availability of critical information. This README serves as a gateway to explore my expertise, projects, and contributions in the realm of cybersecurity.
 
 ## About Me
@@ -46,17 +50,17 @@ My dedication to the cybersecurity community is exemplified through my continuou
 
 - **Community Involvement:** Maintaining an active presence on security forums, engaging in discussions, and sharing insights to foster collaboration and knowledge exchange within the cybersecurity community.
 
-- **Certifications:** Holding esteemed certifications such as [CISSP, CEH, OSCP], I ensure my expertise is validated and aligned with industry best practices
+- **Certifications:** Holding esteemed certifications such as
 
-.
+ [CISSP, CEH, OSCP], I ensure my expertise is validated and aligned with industry best practices.
 
 ## Let's Connect
 
 I thrive on establishing connections with fellow cybersecurity enthusiasts, businesses, and organizations aiming to strengthen their security posture. Reach out to me through any of the following channels:
 
 - Email: or0to@yahoo.com
-- LinkedIn: https://www.linkedin.com/in/3ly313/
-- Twitter: http://twitter.com/3lly313
+- LinkedIn: [![LinkedIn](https://your-image-url.com)](https://www.linkedin.com/in/3ly313/)
+- Twitter: [![Twitter](https://your-image-url.com)](http://twitter.com/3lly313)
 
 Don't hesitate to contact me with any inquiries, collaboration opportunities, or discussions related to cybersecurity. Together, we can make the digital world a safer place!
 
