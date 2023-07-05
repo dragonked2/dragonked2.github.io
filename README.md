@@ -56,13 +56,13 @@ I thrive on establishing connections with fellow cybersecurity enthusiasts, busi
 
 - Email: or0to@yahoo.com
 - LinkedIn: https://www.linkedin.com/in/3ly313/
-- Twitter: [[Your Twitter Handle]](https://twitter.com/3lyy313)
+- Twitter: http://twitter.com/3lly313
 
 Don't hesitate to contact me with any inquiries, collaboration opportunities, or discussions related to cybersecurity. Together, we can make the digital world a safer place!
 
 ## License
 
-Unless otherwise specified, the code and documentation in my repositories are available under the [license you prefer, e.g., MIT License].
+Unless otherwise specified, the code and documentation in my repositories are available under the [MIT License,apache,redhat,etc...].
 
 ## Acknowledgments
 
