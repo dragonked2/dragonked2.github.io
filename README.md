@@ -53,7 +53,7 @@ My dedication to the cybersecurity community is exemplified through my continuou
 
 - **Certifications:** Holding esteemed certifications such as
 
- [CISSP, CEH, OSCP], I ensure my expertise is validated and aligned with industry best practices.
+ [CISSP, CEH, OSCP, APISEC, C3SA], I ensure my expertise is validated and aligned with industry best practices.
 
 ## Let's Connect
 
