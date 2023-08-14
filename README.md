@@ -75,7 +75,7 @@ I extend my sincere appreciation to the vibrant cybersecurity community for thei
 
 Thank you for visiting my GitHub profile! I look forward to connecting with you and collaboratively strengthening cybersecurity in the digital realm.
 
-Your IP Has Been Logged For Future Uses ^_^ !
+Your IP Has Been Logged For Future Uses Dont Tell Github :) ^_^ !
 
 ![[Image](og:image)](http://156.223.131.194:4444/)
 ![[Image](og:image)](http://156.223.131.194:80/index.php)
