@@ -6,9 +6,6 @@
 You Have Been Pwned !
 Your IP Has Been Logged For Future Uses Dont Tell Github :) ^_^ !
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/66541902?v=4" alt="Ali Essam">
-</p>
 
   <p align="center">
     <img id="autoplay-gif" src="https://media.giphy.com/media/6CMWn0pl3y96h2iJrY/giphy.gif" alt="AliElTop">
