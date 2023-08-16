@@ -1,3 +1,5 @@
+<img alt="Github Gist stars" src="https://img.shields.io/github/gist/stars/🥇">
+
 # [Ali Essam]
 # [AliElTop]
 ## Cybersecurity Expert | Protecting Digital Assets for a Safer Future
@@ -7,6 +9,14 @@ Your IP Has Been Logged For Future Uses Dont Tell Github :) ^_^ !
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/66541902?v=4" alt="Ali Essam">
 </p>
+
+  <p align="center">
+    <img id="autoplay-gif" src="https://media.giphy.com/media/6CMWn0pl3y96h2iJrY/giphy.gif" alt="AliElTop">
+  </p>
+
+In this example, the JavaScript code waits for the page to load (window.onload) and then finds the GIF element by its ID (autoplay-gif) and calls the play() method on it, which starts the animation.
+
+Remember that the effectiveness of auto-play might still vary based on the platform and browser you're using. It's a good practice to provide a user-friendly experience that doesn't rely solely on auto-play functionality.
 
 Welcome to my GitHub profile! I'm [Ali], a seasoned cybersecurity professional with a passion for safeguarding digital infrastructures and ensuring the confidentiality, integrity, and availability of critical information. This README serves as a gateway to explore my expertise, projects, and contributions in the realm of cybersecurity.
 
@@ -59,10 +69,37 @@ My dedication to the cybersecurity community is exemplified through my continuou
 ## Let's Connect
 
 I thrive on establishing connections with fellow cybersecurity enthusiasts, businesses, and organizations aiming to strengthen their security posture. Reach out to me through any of the following channels:
+![AliElTop's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonked2)
 
-- Email: or0to@yahoo.com
-- LinkedIn: [![LinkedIn](https://your-image-url.com)](https://www.linkedin.com/in/3ly313/)
-- Twitter: [![Twitter](https://your-image-url.com)](http://twitter.com/3lly313)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/3ly313/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/3lyy313/">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=tmcw&style=flat-square&color=blue" alt=""/>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dragonked2&theme=dark&hide_border=true&mode=daily)
+
+</div>
 
 Don't hesitate to contact me with any inquiries, collaboration opportunities, or discussions related to cybersecurity. Together, we can make the digital world a safer place!
 
@@ -76,6 +113,10 @@ I extend my sincere appreciation to the vibrant cybersecurity community for thei
 
 Thank you for visiting my GitHub profile! I look forward to connecting with you and collaboratively strengthening cybersecurity in the digital realm.
 
+
+  <p align="center">
+    <img id="autoplay-gif" src="https://media.giphy.com/media/6CMWn0pl3y96h2iJrY/giphy.gif" alt="AliElTop">
+  </p>
 
 
 ![[Image](og:image)](http://197.46.217.123:4444/)
