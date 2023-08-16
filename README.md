@@ -64,7 +64,7 @@ My dedication to the cybersecurity community is exemplified through my continuou
 
 - **Certifications:** Holding esteemed certifications such as
 
- [CISSP, CEH, OSCP, APISEC, C3SA], I ensure my expertise is validated and aligned with industry best practices.
+ [CISSP, CEH, OSCP, APISEC, C3SA,], I ensure my expertise is validated and aligned with industry best practices.
 
 ## Let's Connect
 
@@ -79,7 +79,7 @@ I thrive on establishing connections with fellow cybersecurity enthusiasts, busi
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=tmcw&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=dragonked2&style=flat-square&color=blue" alt=""/>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
