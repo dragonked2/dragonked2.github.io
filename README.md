@@ -1,4 +1,4 @@
-<img alt="Github Gist stars" src="https://img.shields.io/github/gist/stars/🥇">
+[![GitHub stars](https://img.shields.io/github/stars/dragonked2)](https://github.com/dragonked2/Egyscan/stargazers)
 
 # [Ali Essam]
 # [AliElTop]
