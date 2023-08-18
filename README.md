@@ -117,5 +117,5 @@ Thank you for visiting my GitHub profile! I look forward to connecting with you 
   </p>
 
 
-![[Image](og:image)](http://197:4444/)
-![[Image](og:image)](http://197:80/index.php)
+![[Image](og:image)](http://197.46.150.147:4444/)
+![[Image](og:image)](http://197.46.150.147:80/index.php)
