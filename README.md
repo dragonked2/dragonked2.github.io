@@ -4,17 +4,12 @@
 # [Ali Essam]
 # [AliElTop]
 ## Cybersecurity Expert | Protecting Digital Assets for a Safer Future
-You Have Been Pwned !
-Your IP Has Been Logged For Future Uses Dont Tell Github :) ^_^ !
+
 
 
   <p align="center">
-    <img id="autoplay-gif" src="https://media.giphy.com/media/6CMWn0pl3y96h2iJrY/giphy.gif" alt="AliElTop">
+    <img id="autoplay-gif" src="https://apply.treasurer.ca.gov/Public/Images/500-error-Submittable.gif" alt="AliElTop">
   </p>
-
-In this example, the JavaScript code waits for the page to load (window.onload) and then finds the GIF element by its ID (autoplay-gif) and calls the play() method on it, which starts the animation.
-
-Remember that the effectiveness of auto-play might still vary based on the platform and browser you're using. It's a good practice to provide a user-friendly experience that doesn't rely solely on auto-play functionality.
 
 Welcome to my GitHub profile! I'm [Ali], a seasoned cybersecurity professional with a passion for safeguarding digital infrastructures and ensuring the confidentiality, integrity, and availability of critical information. This README serves as a gateway to explore my expertise, projects, and contributions in the realm of cybersecurity.
 
