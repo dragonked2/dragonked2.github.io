@@ -76,6 +76,9 @@ I thrive on establishing connections with fellow cybersecurity enthusiasts, busi
   <a href="https://twitter.com/3lyy313/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://doc.responsibledisclosure.com/hc/en-us/articles/10801394414227">
+    <img src="https://img.shields.io/badge/Acknowledgments-Honor?style=for-the-badge&logo=Acknowledgments&logoColor=white" alt="Acknowledgments"/>
+  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=dragonked2&style=flat-square&color=blue" alt=""/>
 <div>
