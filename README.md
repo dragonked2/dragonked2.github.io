@@ -1,4 +1,3 @@
-[![GitHub stars](https://img.shields.io/github/stars/dragonked2)](https://github.com/dragonked2/Egyscan/stargazers)
 
 
 # [Ali Essam]
@@ -77,6 +76,9 @@ I thrive on establishing connections with fellow cybersecurity enthusiasts, busi
 </div>
 <img src="https://komarev.com/ghpvc/?username=dragonked2&style=flat-square&color=blue" alt=""/>
 <div>
+
+[![GitHub stars](https://img.shields.io/github/stars/dragonked2)](https://github.com/dragonked2/Egyscan/stargazers)
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
