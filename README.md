@@ -196,7 +196,7 @@ Thank you for visiting my GitHub profile! I look forward to connecting with you 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/3ly313/" target="_blank">
+  <a href="https://www.linkedin.com/in/dragonked2/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.twitter.com/3lyy313/" target="_blank">
