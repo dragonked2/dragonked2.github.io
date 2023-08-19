@@ -64,7 +64,7 @@ I thrive on establishing connections with fellow cybersecurity enthusiasts, busi
 ![AliElTop's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonked2)
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/3ly313/">
+  <a href="https://www.linkedin.com/in/dragonked2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/3lyy313/">
