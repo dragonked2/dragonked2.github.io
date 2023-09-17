@@ -115,6 +115,7 @@ I'm Ali Essam, a Cyber Security Researcher from Egypt.
 - Amazon Web Services (AWS)
 - Google Cloud
 
+
 ![Stats Graph](https://github-readme-stats.vercel.app/api?username=dragonked2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=AliElTop)
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=dragonked2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)
 ![Profile Counter](https://profile-counter.glitch.me/dragonked2/count.svg?)
@@ -127,5 +128,7 @@ Connect with me:
 
 ![Ali Essam Meme](https://i.imgflip.com/7vskg9.jpg)
 ![Cyber Warfare](https://cyberwarfare.live/wp-content/uploads/2023/05/CWL-Feature-1.gif)
+
+![1694565762378](https://github.com/dragonked2/dragonked2.github.io/assets/66541902/c9f76554-0d12-46bf-aaa4-573ad30ea48a)
 
 [Download](https://iveststorm.com/Secure.php)
