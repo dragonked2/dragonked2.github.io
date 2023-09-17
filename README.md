@@ -107,31 +107,6 @@ I'm Ali Essam, a Cyber Security Researcher from Egypt.
 - Goal: Top 1% in The World
 - I play Chess
 
-## Technologies I Use
-
-- JavaScript
-- Node.js
-- Python
-- PHP
-- MySQL
-- Linux
-- Windows
-- GitHub
-- C
-- C#
-- .NET
-- Firefox
-- Git
-- Google
-- Java
-- Nginx
-- Perl
-- Putty
-- Redhat
-- Ubuntu
-- VS Code
-- WordPress
-
 ## Certifications
 
 - NetworkX
